@@ -117,4 +117,3 @@ foreign key (boardId) references board (id) on delete cascade
 ) engine=InnoDB default charset=utf8;
 
 ```
-[출처] README|작성자 devnote1
